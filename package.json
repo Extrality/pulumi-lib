@@ -1,0 +1,10 @@
+{
+  "name": "@simai/lib",
+  "type": "module",
+  "exports": {
+    ".": "./src/index.js",
+    "./helm": "./src/helm.js",
+    "./github_files": "./src/github_files.js",
+    "./provider_multirotate": "./src/provider_multirotate.js"
+  }
+}
